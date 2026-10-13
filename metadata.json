@@ -1,0 +1,6 @@
+{
+  "name": "AniZone - Next-Gen Anime Streaming Platform",
+  "description": "Modern anime streaming platform blueprint & player featuring native multi-audio/subtitle tracks, adaptive HLS engine, and optimized watch history sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
